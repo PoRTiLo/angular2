@@ -1,0 +1,25 @@
+{ "rounds":
+  [
+    {
+      "round": "1",
+      "date": "",
+      "matches": [
+        {"startTime": "09:00", "team1": "R.I.P. B", "team2": "Atraps C", "result": "4:1", "halfResult": "2:0"},
+        {"startTime": "09:50", "team1": "ProBrno", "team2": "Red Devils", "result": "3:0", "halfResult": "2:0"},
+        {"startTime": "10:40", "team1": "R.U.Medvídci", "team2": "Debakl", "result": "7:1", "halfResult": "3:0"},
+        {"startTime": "11:30", "team1": "Frutti di Mare", "team2": "Wodowa B", "result": "4:1", "halfResult": "1:1"},
+        {"startTime": "12:20", "team1": "Tropicana", "team2": "FFT B", "result": "2:1", "halfResult": "(1:0)"}
+      ]
+    }, {
+      "round": "2",
+      "date": "",
+      "matches": [
+        {"startTime": "09:00", "team1": "R.I.P. B", "team2": "Atraps C", "result": "4:1", "halfResult": "2:0"},
+        {"startTime": "09:50", "team1": "ProBrno", "team2": "Red Devils", "result": "3:0", "halfResult": "2:0"},
+        {"startTime": "10:40", "team1": "R.U.Medvídci", "team2": "Debakl", "result": "7:1", "halfResult": "3:0"},
+        {"startTime": "11:30", "team1": "Frutti di Mare", "team2": "Wodowa B", "result": "4:1", "halfResult": "1:1"},
+        {"startTime": "12:20", "team1": "Tropicana", "team2": "FFT B", "result": "2:1", "halfResult": "(1:0)"}
+      ]
+    }
+  ]
+}

@@ -4,10 +4,11 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { TableComponent } from './wodowa/table.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent, TableComponent
   ],
   imports: [
     BrowserModule,
